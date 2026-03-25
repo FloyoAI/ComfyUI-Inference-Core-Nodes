@@ -49,7 +49,7 @@ cuda-12 = [
     # CUDA 12, Python 3.13, Windows
     "onnxruntime-gpu @ https://files.pythonhosted.org/packages/c7/87/1361640e9277622591926f84d10fcc289c20be03e1ff5480d66c3cd2402f/onnxruntime_gpu-1.20.1-cp313-cp313-win_amd64.whl ; platform_system == 'Windows' and python_version == '3.13'",
     # CUDA 12, Python 3.13, Linux
-    "onnxruntime-gpu @ https://files.pythonhosted.org/packages/51/86/de1d7e513e178265e5fac8fd7fd529decd06416cbe316ce77a5b0ff6915b/onnxruntime_gpu-1.20.1-cp313-cp313-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl ; platform_system == 'Linux' and python_version == '3.13'",
+    "onnxruntime-gpu @ https://files.pythonhosted.org/packages/51/86/de1d7e513e178265e5fac8fd7fd529decd06416cbe316ce77a5b0ff6915b/onnxruntime_gpu-1.20.1-cp313-cp313-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl ; platform_system == 'Linux' and python_version == '3.13'"
 ]
 directml = [
     "onnxruntime-directml"
